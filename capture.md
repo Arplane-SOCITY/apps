@@ -1,6 +1,6 @@
 # Arplane Capture
 Do You Want Download?
-* [Ok!](assets/screen.record.arplane.zip)
+* [Ok!](assets/screen.recorder.arplane.zip)
 # Introduce
 1. Click "Ok!"
 2. Wait For Download Completly
