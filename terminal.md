@@ -18,12 +18,22 @@ Do You Want Download?
 * The ZIP File Is Encrypted With SHA256 To Fastest Download
 # Instructions
 1. Click [Ok! (Application In ZIP)](assets/Terminal.zip)
-* ![9](https://user-images.githubusercontent.com/86874532/167286917-a52d8458-f950-49f6-8af8-43110e59f3d5.png)
+* ![9](assets/9.png "9.png")
 2. Click File "Terminal.zip"
-3. Open With 7-zip
-4. Go To "Terminal" Folder
-5. Extract File
-6. Run "Terminal.exe"
-7. Wait
-8. Type Help, hElp, HELP, help, heLp, helP, HELp, HElp For Help
-9. Loop Step 8-9.
+* ![10](assets/10.png "10.png")
+3. Rename From "Terminal.zip" To "Terminal.sha256"
+* ![11](assets/11.png "11.png")
+5. Open With 7-zip
+* ![12](assets/12.png "12.png")
+6. Go To "Terminal" Folder
+* ![13](assets/13.png "13.png")
+7. Extract File
+* ![14](assets/14.png "14.png")
+9. Run "Terminal.exe"
+* ![15](assets/15.png "15.png")
+11. Wait
+* ![16](assets/16.png "16.png")
+13. Type Help, hElp, HELP, help, heLp, helP, HELp, HElp For Help
+* ![17](assets/17.png "17.png")
+15. Loop Step 8-9.
+* ![No Picture](assets/NoPicture.png "NoPicture.png")
